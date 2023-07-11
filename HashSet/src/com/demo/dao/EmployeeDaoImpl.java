@@ -15,7 +15,7 @@ public class EmployeeDaoImpl implements EmployeeDao{
 	{
 		eset= new HashSet<>();
 		eset.add(new Employee(1,"Gaurav",15000,"Developer"));
-		eset.add(new Employee(2,"Deepak",10000," Sr Developer"));
+		eset.add(new Employee(2,"Andy",10000," Sr Developer"));
 		eset.add(new Employee(3,"Tejas",90000,"Manager"));
 	}
 	@Override
